@@ -4,3 +4,8 @@
   **R** - random fill  
   **C** - clear field  
   **Spacebar** - start/stop time
+
+Work in progress. Latest up-to-date version in branch **dev**
+
+Screenshot of application:  
+![Screenshot](docs/gameOfLife_scrn.png)
